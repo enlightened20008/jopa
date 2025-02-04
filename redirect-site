@@ -2,10 +2,10 @@
 <html>
 <head>
     <script>
-        window.location.href = "https://new-url.com";
+        window.location.href = "https://translate.google.com/?hl=ru&sl=en&tl=uk&op=translate";
     </script>
 </head>
 <body>
-    <p>Redirecting... If nothing happens, click <a href="https://new-url.com">here</a>.</p>
+    <p>Redirecting... If nothing happens, click <a href="https://translate.google.com/?hl=ru&sl=en&tl=uk&op=translate">here</a>.</p>
 </body>
 </html>
